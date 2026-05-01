@@ -5,9 +5,12 @@ Hey there! I’m Akshayaa ❀ <br><br>I'm a software systems student with a chao
 ## ✿ Tech stack
 
 ![Python](https://img.shields.io/badge/python-1a1b27?style=for-the-badge&logo=python&logoColor=7aa2f7)
-![JavaScript](https://img.shields.io/badge/javascript-1a1b27?style=for-the-badge&logo=javascript&logoColor=7aa2f7)
 ![C++](https://img.shields.io/badge/c++-1a1b27?style=for-the-badge&logo=c%2B%2B&logoColor=7aa2f7)
+![SQL](https://img.shields.io/badge/sql-1a1b27?style=for-the-badge&logo=database&logoColor=7aa2f7)
+
+![React](https://img.shields.io/badge/react-1a1b27?style=for-the-badge&logo=react&logoColor=7aa2f7)
 ![HTML5](https://img.shields.io/badge/html5-1a1b27?style=for-the-badge&logo=html5&logoColor=7aa2f7)
+![JavaScript](https://img.shields.io/badge/javascript-1a1b27?style=for-the-badge&logo=javascript&logoColor=7aa2f7)
 ![CSS3](https://img.shields.io/badge/css3-1a1b27?style=for-the-badge&logo=css3&logoColor=7aa2f7)
 
 ![FastAPI](https://img.shields.io/badge/fastapi-1a1b27?style=for-the-badge&logo=fastapi&logoColor=7aa2f7)
@@ -27,6 +30,7 @@ Hey there! I’m Akshayaa ❀ <br><br>I'm a software systems student with a chao
 ![Pandas](https://img.shields.io/badge/pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=7aa2f7)
 ![NumPy](https://img.shields.io/badge/numpy-1a1b27?style=for-the-badge&logo=numpy&logoColor=7aa2f7)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-1a1b27?style=for-the-badge&logo=scikit-learn&logoColor=7aa2f7)
+![Power BI](https://img.shields.io/badge/power%20bi-1a1b27?style=for-the-badge&logo=powerbi&logoColor=7aa2f7)
 
 ![Postman](https://img.shields.io/badge/postman-1a1b27?style=for-the-badge&logo=postman&logoColor=7aa2f7)
 ![Selenium](https://img.shields.io/badge/selenium-1a1b27?style=for-the-badge&logo=selenium&logoColor=7aa2f7)
